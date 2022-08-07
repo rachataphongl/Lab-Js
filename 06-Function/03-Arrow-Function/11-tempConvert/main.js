@@ -1,0 +1,1 @@
+let convertFahToCel = (fahrenheit) => (fahrenheit - 32) * 5 / 9;
