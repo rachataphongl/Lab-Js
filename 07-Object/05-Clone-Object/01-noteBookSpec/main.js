@@ -38,3 +38,4 @@ for(let key in notebook) {
 }
 
 console.log(cloneObject);
+console.log(cloneObject);
