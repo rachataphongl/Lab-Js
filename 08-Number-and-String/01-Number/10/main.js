@@ -7,4 +7,4 @@
 //1 deg === 1 * PI / 180
 //n deg === n * PI / 180
 
-const convertGegreeToRad = (deg) => deg * Math.PI / 180
+const convertDegreeToRad = (deg) => deg * Math.PI / 180

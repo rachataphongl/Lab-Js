@@ -1,4 +1,4 @@
-function Accumulayor(num) {
+function Accumulator(num) {
     //this = {}
     this.currentValue = num;
     this.read = function() {
@@ -9,7 +9,7 @@ function Accumulayor(num) {
     }
 }
 
-let showw = new Accumulayor(8);
+let showw = new Accumulator(8);
 showw.read();
 showw.show();
 

@@ -7,5 +7,4 @@ map.delete("age");
 map.has('birthDate');
 map.size;
 map.clear();
-
 console.log(map);

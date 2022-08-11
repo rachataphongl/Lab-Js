@@ -4,3 +4,5 @@ set.add('Japan');
 set.add('Thailand');
 set.add('Thailand');
 set.add('Thailand');
+
+console.log(set);
